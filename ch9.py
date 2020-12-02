@@ -18,6 +18,7 @@ def parse_args():
 	)
 	arg_parser.add_argument(
 		# TODO: Ajouter l'option --config-file
+
 		# TODO: mettre la destination à config_file
 		# TODO: Chosir le bon type de nargs (https://docs.python.org/3/library/argparse.html#nargs)
 		action="store", nargs=...,
